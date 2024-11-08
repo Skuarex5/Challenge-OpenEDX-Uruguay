@@ -1,0 +1,14 @@
+-- Bienvenido a la guía básica para el correcto funcionamiento del ChatBot --
+
+1. Descargar las imágenes de la carpeta "Images" de GitHub.
+2. Descargar el archivo .py.
+3. Crear una carpeta y colocar todo lo anterior.
+4. Con el uso de alguna aplicación como Visual Studio o PyCharm intentar reproducir el código.
+5. Si no se le permite, posiblemente no posea las bibliotecas necesarias, para esto coloque en cmd:
+
+pip install pillow
+pip install transformers
+pip install requests
+pip install openai
+pip install pytesseract
+pip install pymupdf
